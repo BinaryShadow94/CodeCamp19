@@ -1,4 +1,4 @@
-# **Resolución del reto "METAmorphosis"**
+# **Resolución del reto "intercepted"**
 
 **Pista: "El tipo de cifrado utilizado ha sido de sustitución polialfabético."**
 
@@ -13,9 +13,3 @@
 
 
   **CodeCamp2019{v1G3n3r3_1s_N07_d34D}**
-
-  1. Abrir texto en https://www.guballa.de/vigenere-solver, lenguaje Español, y pulsar en "Break Cipher"
-
-  2. Decodificar el token [base64]
-
-  3. La flag es: CodeCamp2019{v1G3n3r3_1s_N07_d34D}
